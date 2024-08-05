@@ -9,10 +9,10 @@ import os
 import pytz
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('7307379306:AAEk0pPxI60A0MiDK1jFed_Z-p5460_XMw0')
+bot = telebot.TeleBot('6849589563:AAGxK_S-vx2vGkaPyZxBkvPIW1BHsKez0wQ')
 
 # Admin user IDs
-admin_id = ["937173294"]
+admin_id = ["754041005"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
